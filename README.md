@@ -18,13 +18,13 @@ To install dependencies:
 npm install
 ```
 
-To build the app run:
+To build the app:
 
 ```bash
 npm run build
 ```
 
-To start the app
+To start the app:
 
 ```bash
 npm start
